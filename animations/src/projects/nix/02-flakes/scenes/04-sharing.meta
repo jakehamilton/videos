@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_sharing",
+      "targetTime": 5.739456185002396
+    },
+    {
+      "name": "nix_flakes_sharing_content",
+      "targetTime": 6.8894561850023965
+    },
+    {
+      "name": "nix_flakes_sharing_code",
+      "targetTime": 7.833243996734477
+    },
+    {
+      "name": "nix_flakes_sharing_path",
+      "targetTime": 15.970442312611368
+    },
+    {
+      "name": "nix_flakes_sharing_official",
+      "targetTime": 18.349508417903667
+    },
+    {
+      "name": "nix_flakes_sharing_official_package",
+      "targetTime": 19.349508417903667
+    },
+    {
+      "name": "nix_flakes_sharing_official_module",
+      "targetTime": 20.37765262413412
+    },
+    {
+      "name": "nix_flakes_sharing_end",
+      "targetTime": 23.99218069783366
+    }
+  ],
+  "seed": 2083401064
+}

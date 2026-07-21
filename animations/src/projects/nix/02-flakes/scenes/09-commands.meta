@@ -1,0 +1,90 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_commands",
+      "targetTime": 5.016098656900425
+    },
+    {
+      "name": "nix_flakes_commands_uri_protocol",
+      "targetTime": 10.082645156026981
+    },
+    {
+      "name": "nix_flakes_commands_uri_source",
+      "targetTime": 11.317344571704977
+    },
+    {
+      "name": "nix_flakes_commands_uri_hash",
+      "targetTime": 12.317344571704977
+    },
+    {
+      "name": "nix_flakes_commands_uri_path",
+      "targetTime": 13.977436678299341
+    },
+    {
+      "name": "nix_build",
+      "targetTime": 20.276129084644108
+    },
+    {
+      "name": "nix_build_source",
+      "targetTime": 21.276129084644108
+    },
+    {
+      "name": "nix_build_hash",
+      "targetTime": 21.776129084644108
+    },
+    {
+      "name": "nix_build_path",
+      "targetTime": 22.794635316370538
+    },
+    {
+      "name": "nix_build_path_expanded",
+      "targetTime": 26.811900303119014
+    },
+    {
+      "name": "nix_build_path_shrunken",
+      "targetTime": 29.389483093265383
+    },
+    {
+      "name": "nix_develop",
+      "targetTime": 34.049583311541056
+    },
+    {
+      "name": "nix_develop_protocol",
+      "targetTime": 41.90978396216898
+    },
+    {
+      "name": "nix_develop_source",
+      "targetTime": 42.67314654364702
+    },
+    {
+      "name": "nix_develop_hash",
+      "targetTime": 43.921919214400866
+    },
+    {
+      "name": "nix_develop_path",
+      "targetTime": 44.421919214400866
+    },
+    {
+      "name": "nix_check",
+      "targetTime": 48.5061586741335
+    },
+    {
+      "name": "nix_check_target",
+      "targetTime": 51.38463611773654
+    },
+    {
+      "name": "nix_check_all",
+      "targetTime": 56.09355152189041
+    },
+    {
+      "name": "nix_commands_showcase",
+      "targetTime": 59.47285508161771
+    },
+    {
+      "name": "nix_flakes_commands_end",
+      "targetTime": 73.69965693855926
+    }
+  ],
+  "seed": 1683366594
+}

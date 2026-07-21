@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_starting",
+      "targetTime": 10.925699252975162
+    },
+    {
+      "name": "nix_flakes_starting_content",
+      "targetTime": 12.342455497166496
+    },
+    {
+      "name": "nix_flakes_starting_code",
+      "targetTime": 12.440600406350633
+    },
+    {
+      "name": "nix_flakes_starting_nix",
+      "targetTime": 18.74042550229389
+    },
+    {
+      "name": "nix_flakes_starting_nixos",
+      "targetTime": 23.507033867608307
+    },
+    {
+      "name": "nix_flakes_starting_end",
+      "targetTime": 30.384764276771072
+    }
+  ],
+  "seed": 1328080107
+}

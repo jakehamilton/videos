@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_language_code",
+      "targetTime": 4.15
+    },
+    {
+      "name": "nix_language_code_inputs",
+      "targetTime": 9.878116271311928
+    },
+    {
+      "name": "nix_language_code_source",
+      "targetTime": 13.242174406967894
+    },
+    {
+      "name": "nix_language_code_calendar",
+      "targetTime": 18.06358443715344
+    },
+    {
+      "name": "nix_language_code_calendar_next",
+      "targetTime": 19.96358443715344
+    },
+    {
+      "name": "nix_language_code_calendar_success",
+      "targetTime": 21.86358443715344
+    }
+  ],
+  "seed": 2824904673
+}

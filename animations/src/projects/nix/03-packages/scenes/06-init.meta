@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_init",
+      "targetTime": 1.5079028566952395
+    },
+    {
+      "name": "nix_flakes_init_command",
+      "targetTime": 2.65790285669524
+    },
+    {
+      "name": "nix_flakes_init_arrow",
+      "targetTime": 3.65790285669524
+    },
+    {
+      "name": "nix_flakes_init_lock",
+      "targetTime": 10.291361754591954
+    },
+    {
+      "name": "nix_flakes_init_end",
+      "targetTime": 16.801043943131916
+    }
+  ],
+  "seed": 2919310820
+}

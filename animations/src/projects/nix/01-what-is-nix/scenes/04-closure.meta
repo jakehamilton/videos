@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_isolation",
+      "targetTime": 1.5155458718351065
+    },
+    {
+      "name": "nix_isolation_package1",
+      "targetTime": 2.665545871835106
+    },
+    {
+      "name": "nix_isolation_package2",
+      "targetTime": 8.265545871835108
+    },
+    {
+      "name": "nix_isolation_apt_example",
+      "targetTime": 14.706363040235566
+    }
+  ],
+  "seed": 2960986404
+}

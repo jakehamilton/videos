@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_packages_firefox",
+      "targetTime": 4.0410602775280395
+    },
+    {
+      "name": "nix_packages_openssl",
+      "targetTime": 5.0410602775280395
+    }
+  ],
+  "seed": 326004120
+}

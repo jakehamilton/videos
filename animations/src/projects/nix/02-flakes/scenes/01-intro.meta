@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "greeting_start",
+      "targetTime": 0.21296492852338927
+    },
+    {
+      "name": "greeting_end",
+      "targetTime": 0.9368992804375145
+    },
+    {
+      "name": "nix_flakes_confusing",
+      "targetTime": 7.123027919072867
+    },
+    {
+      "name": "nix_flakes_confusing_end",
+      "targetTime": 12.8494913323051
+    },
+    {
+      "name": "nix_flakes",
+      "targetTime": 14.43097558458595
+    },
+    {
+      "name": "nix_flakes_problems",
+      "targetTime": 15.58097558458595
+    },
+    {
+      "name": "nix_flakes_problems_0",
+      "targetTime": 17.60613738768942
+    },
+    {
+      "name": "nix_flakes_problems_1",
+      "targetTime": 21.202800872866177
+    },
+    {
+      "name": "nix_flakes_problems_focus",
+      "targetTime": 25.76958991438863
+    },
+    {
+      "name": "nix_flakes_problems_end",
+      "targetTime": 29.009661524655307
+    }
+  ],
+  "seed": 1055112377
+}

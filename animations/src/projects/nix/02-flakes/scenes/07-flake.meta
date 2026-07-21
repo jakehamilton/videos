@@ -1,0 +1,118 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_flake",
+      "targetTime": 2.9445037525194864
+    },
+    {
+      "name": "nix_flakes_flake_inputs",
+      "targetTime": 6.792998756015917
+    },
+    {
+      "name": "nix_flakes_flake_output",
+      "targetTime": 8.031101256324426
+    },
+    {
+      "name": "nix_flakes_flake_inputs_focus",
+      "targetTime": 9.626438801351691
+    },
+    {
+      "name": "nix_flakes_flake_inputs_nixpkgs",
+      "targetTime": 14.280682191623198
+    },
+    {
+      "name": "nix_flakes_flake_inputs_path",
+      "targetTime": 22.474061338898846
+    },
+    {
+      "name": "nix_flakes_flake_inputs_git",
+      "targetTime": 23.92362263895248
+    },
+    {
+      "name": "nix_flakes_flake_inputs_tarball",
+      "targetTime": 24.92362263895248
+    },
+    {
+      "name": "nix_flakes_flake_outputs_focus",
+      "targetTime": 27.60036478509847
+    },
+    {
+      "name": "nix_flakes_flake_outputs_function",
+      "targetTime": 32.306207934189246
+    },
+    {
+      "name": "nix_flakes_flake_outputs_function_args",
+      "targetTime": 35.68491789712902
+    },
+    {
+      "name": "nix_flakes_flake_outputs_function_args_expanded",
+      "targetTime": 37.20351522263847
+    },
+    {
+      "name": "nix_flakes_flake_outputs_packages",
+      "targetTime": 46.14690840361258
+    },
+    {
+      "name": "nix_flakes_flake_outputs_devshells",
+      "targetTime": 47.14690840361258
+    },
+    {
+      "name": "nix_flakes_flake_outputs_checks",
+      "targetTime": 48.14690840361258
+    },
+    {
+      "name": "nix_flakes_flake_outputs_nixosConfigurations",
+      "targetTime": 49.153942625492334
+    },
+    {
+      "name": "nix_flakes_flake_outputs_nixosModules",
+      "targetTime": 50.72371459775255
+    },
+    {
+      "name": "nix_flakes_flake_packages",
+      "targetTime": 57.04730670676684
+    },
+    {
+      "name": "nix_flakes_flake_devshells",
+      "targetTime": 60.870573121951026
+    },
+    {
+      "name": "nix_flakes_flake_checks",
+      "targetTime": 64.83678973537239
+    },
+    {
+      "name": "nix_flakes_flake_nixosConfigurations",
+      "targetTime": 69.33906959218315
+    },
+    {
+      "name": "nix_flakes_flake_nixosModules",
+      "targetTime": 73.5435365359998
+    },
+    {
+      "name": "nix_flakes_flake_packages_2",
+      "targetTime": 77.0768375982863
+    },
+    {
+      "name": "nix_flakes_flake_devshells_2",
+      "targetTime": 78.0768375982863
+    },
+    {
+      "name": "nix_flakes_flake_checks_2",
+      "targetTime": 79.0768375982863
+    },
+    {
+      "name": "nix_flakes_flake_systems",
+      "targetTime": 80.64804269184704
+    },
+    {
+      "name": "nix_flakes_flake_nixos",
+      "targetTime": 94.21112145820464
+    },
+    {
+      "name": "nix_flakes_flake_end",
+      "targetTime": 100.36738341618724
+    }
+  ],
+  "seed": 971808076
+}

@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_channels",
+      "targetTime": 1.8765973004154093
+    },
+    {
+      "name": "nix_channels_nixpkgs",
+      "targetTime": 3.026597300415409
+    },
+    {
+      "name": "nix_channels_path",
+      "targetTime": 4.311309409407814
+    },
+    {
+      "name": "nix_channels_connect",
+      "targetTime": 6.311309409407814
+    },
+    {
+      "name": "nix_channels_path2",
+      "targetTime": 9.240036100778124
+    },
+    {
+      "name": "nix_channels_connect2",
+      "targetTime": 10.240036100778124
+    },
+    {
+      "name": "nix_channels_incompatible",
+      "targetTime": 13.474656210475045
+    }
+  ],
+  "seed": 3130420014
+}

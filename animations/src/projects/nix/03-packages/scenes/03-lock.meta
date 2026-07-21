@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_flakes_lock",
+      "targetTime": 3.0622111301352755
+    },
+    {
+      "name": "nix_flakes_lock_inputs",
+      "targetTime": 5.704810378248557
+    },
+    {
+      "name": "nix_flakes_lock_inputs_collapse",
+      "targetTime": 7.704810378248557
+    },
+    {
+      "name": "nix_flakes_lock_file",
+      "targetTime": 11.004810378248557
+    },
+    {
+      "name": "nix_flakes_lock_success",
+      "targetTime": 14.11036413380481
+    },
+    {
+      "name": "nix_flakes_end",
+      "targetTime": 18.71472296344972
+    }
+  ],
+  "seed": 3093527601
+}

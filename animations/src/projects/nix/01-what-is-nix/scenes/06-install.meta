@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nix_install_excited",
+      "targetTime": 2.0685148818612067
+    },
+    {
+      "name": "nix_install_start",
+      "targetTime": 4.574149488120179
+    },
+    {
+      "name": "nix_install_detsys",
+      "targetTime": 7.404113503850039
+    },
+    {
+      "name": "nix_install_detsys_link",
+      "targetTime": 13.653888602161654
+    },
+    {
+      "name": "nix_install_farewell",
+      "targetTime": 20.709388267407594
+    }
+  ],
+  "seed": 3423488897
+}
